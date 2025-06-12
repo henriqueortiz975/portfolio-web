@@ -2,4 +2,47 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: aliceblue;
+}
+
+.title {
+    color: rgb(0, 0, 0);
+    margin-right: 550px;
+    font-size: 70px
+}
+
+img {
+    height: 160px;
+    border-radius: 20px;
+    margin-right: 130px;
+}
+
+header {
+    flex-direction: row;
+    display: flex;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+
+}
+
+section {
+    border-radius: 4px;
+    margin-top: 30px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    width: 167px;
+    margin-left: 30px;
+
+}
+
+p {
+    font-size: 35px;
+    justify-self: center;
+}
+
+div {
+    flex-direction: row;
+    display: flex;
+    justify-self: center;
 }
