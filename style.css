@@ -2,11 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: aliceblue;
+    background-color: white;
 }
 
 .title {
-    color: rgb(0, 0, 0);
+    color: black;
     margin-right: 550px;
     font-size: 70px
 }
@@ -29,7 +29,7 @@ header {
 section {
     border-radius: 4px;
     margin-top: 30px;
-    border-color: rgb(0, 0, 0);
+    border-color: black;
     border-style: solid;
     width: 167px;
     margin-left: 30px;
@@ -45,4 +45,15 @@ div {
     flex-direction: row;
     display: flex;
     justify-self: center;
+}
+
+.opa {
+    height: 50px;
+}
+footer{
+    justify-self: end;
+    margin-top: 125px;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
 }
