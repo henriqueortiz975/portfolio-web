@@ -115,11 +115,27 @@ h3 {
   font-size: 25px;
 }
 body {
-  background-color: rgb(100, 4, 163);
+  background: linear-gradient(270deg, #802cb8, #7900f1, #5427ce);
+  background-size: 600% 600%;
+
+  animation: moverFundo 15s ease infinite;
 }
+
+@keyframes moverFundo {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
 .title {
   color: blueviolet;
-  font-style:italic;
+  font-style: italic;
 }
 h1,
 h2,
@@ -130,6 +146,6 @@ h6,
 p {
   color: white;
 }
-.wpp{
-height: 35px;
+.wpp {
+  height: 35px;
 }
