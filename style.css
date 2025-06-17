@@ -29,10 +29,11 @@ header {
     margin-left: 20px;
     margin-right: 20px;
     background-color: rgb(0, 0, 0);
+    border-radius: 20px;
 }
 
 section {
-    border-radius: 4px;
+    border-radius: 20px;
     margin-top: 30px;
     border-color: black;
     border-style: solid;
@@ -49,6 +50,7 @@ p {
 }
 
 .ma {
+    border-radius: 20px;
     flex-direction: row;
     display: flex;
     justify-self: center;
@@ -88,6 +90,7 @@ li {
     box-shadow: 0px 0px 15px white;
     margin-top: 50px;
     background-color: rgb(0, 0, 0);
+    border-radius: 15px;
 }
 
 h1 {
