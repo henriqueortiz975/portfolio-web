@@ -1,5 +1,4 @@
 * {
-<<<<<<< HEAD
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -9,31 +8,19 @@
     color: black;
     margin-right: 400px;
     font-size: 70px;
-=======
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-.title {
-  color: black;
-  margin-right: 400px;
-  font-size: 70px;
->>>>>>> c44cb87c9864ec56da2dbe7242a1904c4cb9dab2
 }
 
 img {
-  height: 160px;
+    height: 160px;
 }
 
 .se {
-  border-radius: 80px;
-  height: 160px;
-  margin-right: 130px;
+    border-radius: 80px;
+    height: 160px;
+    margin-right: 130px;
 }
 
 header {
-<<<<<<< HEAD
     flex-direction: row;
     display: flex;
     border-color: black;
@@ -85,68 +72,14 @@ footer {
     border-style: solid;
     box-shadow: 0px 0px 15px white;
     background-color: rgb(0, 0, 0);
-=======
-  flex-direction: row;
-  display: flex;
-  border-color: black;
-  border-style: solid;
-  box-shadow: 0px 0px 15px white;
-  margin-left: 20px;
-  margin-right: 20px;
-  background-color: rgb(0, 0, 0);
-}
-
-section {
-  border-radius: 4px;
-  margin-top: 30px;
-  border-color: black;
-  border-style: solid;
-  width: 167px;
-  margin: 30px;
-  justify-items: center;
-  align-self: center;
-  box-shadow: 0px 0px 15px white;
-  background-color: rgb(0, 0, 0);
-}
-
-p {
-  font-size: 35px;
-}
-
-.ma {
-  flex-direction: row;
-  display: flex;
-  justify-self: center;
-  border-color: black;
-  border-style: solid;
-  width: 1300px;
-  margin-left: 50px;
-  margin-right: 50px;
-  margin-top: 50px;
-  box-shadow: 0px 0px 15px white;
-  background-color: rgb(0, 0, 0);
-}
-
-footer {
-  display: flex;
-  justify-self: center;
-  margin-top: 125px;
-  border-left: 318px;
-  border-right: 318px;
-  border-color: black;
-  border-style: solid;
-  box-shadow: 0px 0px 15px white;
-  background-color: rgb(0, 0, 0);
->>>>>>> c44cb87c9864ec56da2dbe7242a1904c4cb9dab2
 }
 
 li {
-  margin-left: 10px;
-  display: flex;
+    margin-left: 10px;
+    display: flex;
 }
 
 .pa {
-<<<<<<< HEAD
     border: 3px;
     border-color: black;
     border-style: solid;
@@ -155,45 +88,30 @@ li {
     box-shadow: 0px 0px 15px white;
     margin-top: 50px;
     background-color: rgb(0, 0, 0);
-=======
-  border: 3px;
-  border-color: black;
-  border-style: solid;
-  margin-left: 25px;
-  margin-right: 25px;
-  box-shadow: 0px 0px 15px white;
-  margin-top: 50px;
-  background-color: rgb(0, 0, 0);
->>>>>>> c44cb87c9864ec56da2dbe7242a1904c4cb9dab2
 }
 
 h1 {
-  display: flex;
-  justify-self: center;
+    display: flex;
+    justify-self: center;
 }
 
 h3 {
-  font-size: 35px;
+    font-size: 35px;
 }
 
 .la {
-<<<<<<< HEAD
     font-size: 25px;
-=======
-  font-size: 25px;
->>>>>>> c44cb87c9864ec56da2dbe7242a1904c4cb9dab2
 }
 
 .opa {
-  height: 25px;
+    height: 25px;
 }
 
 .va {
-  font-size: 25px;
+    font-size: 25px;
 }
 
 .ka {
-<<<<<<< HEAD
     font-size: 25px;
 }
 
@@ -222,33 +140,6 @@ body {
     font-style: italic;
 }
 
-=======
-  font-size: 25px;
-}
-body {
-  background: linear-gradient(270deg, #802cb8, #7900f1, #5427ce);
-  background-size: 600% 600%;
-
-  animation: moverFundo 15s ease infinite;
-}
-
-@keyframes moverFundo {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
-
-.title {
-  color: blueviolet;
-  font-style: italic;
-}
->>>>>>> c44cb87c9864ec56da2dbe7242a1904c4cb9dab2
 h1,
 h2,
 h3,
@@ -256,7 +147,6 @@ h4,
 h5,
 h6,
 p {
-<<<<<<< HEAD
     color: white;
 }
 
@@ -268,10 +158,3 @@ p {
     font-size: 30px;
     color: white;
 }
-=======
-  color: white;
-}
-.wpp {
-  height: 35px;
-}
->>>>>>> c44cb87c9864ec56da2dbe7242a1904c4cb9dab2
